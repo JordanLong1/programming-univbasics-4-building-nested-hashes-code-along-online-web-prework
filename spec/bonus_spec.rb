@@ -3,7 +3,7 @@ require_relative '../lib/bonus.rb'
 
 describe "bonus" do
   # remove the 'x' from the 'xit' below to activate this test!
-  it  expect(bonus[:montague][:hero][:status]).to eq("dead")
+xit  expect(bonus[:montague][:hero][:status]).to eq("dead")
     expect(bonus[:capulet][:heroine][:status]).to eq("dead")
 
   end
